@@ -6,7 +6,7 @@ PRATIKA is a fully responsive ecommerce website, maximum compatiblities in all m
 
 ## Demo
 
-![PRATIKA Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![PRATIKA Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![PRATIKA Desktop Demo](https://github.com/Pratyusha1025/E-commerce-website-/blob/main/desktop.png)
+![PRATIKA Mobile Demo](https://github.com/Pratyusha1025/E-commerce-website-/blob/main/mobile.png)
 
 
